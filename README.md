@@ -1,4 +1,4 @@
-theme:Hacker
+themes:Hacker
 # hideume.github.io
 ## はじめに
 なるほど、mdファイルで書けばいいのか
